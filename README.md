@@ -6,3 +6,4 @@
 4. `await async` 호환을 위한 `@babel/plugin-transform-runtime` Babel 추가 패키지
 ---
 ### 위의 내용들이 적용된 기본 프로젝트 입니다. 
+### master 브랜치 확인 바랍니다.
